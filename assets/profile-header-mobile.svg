@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="220" viewBox="0 0 480 220" role="img" aria-labelledby="title desc">
+  <title id="title">Mireu Park — Software Engineer, Backend and AI</title>
+  <desc id="desc">Mobile profile header in navy, blue and teal.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101A2C"/><stop offset="1" stop-color="#101722"/></linearGradient><linearGradient id="accent"><stop stop-color="#60A5FA"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient></defs>
+  <rect x=".5" y=".5" width="479" height="219" rx="16" fill="url(#bg)" stroke="#314158"/>
+  <rect x="28" y="42" width="22" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="62" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#B4C3D9">SOFTWARE ENGINEER</text>
+  <text x="26" y="114" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-2" fill="#F1F5F9">Mireu Park</text>
+  <text x="29" y="157" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="1" fill="#7DD3FC">BACKEND</text>
+  <path d="M136 145l11 11m0-11l-11 11" stroke="#728198" stroke-width="1.5"/>
+  <text x="163" y="157" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" letter-spacing="1" fill="#5EEAD4">AI ENGINEERING</text>
+  <path d="M391 183v-27l15 17 15-17v27" fill="none" stroke="url(#accent)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".65"/>
+</svg>
