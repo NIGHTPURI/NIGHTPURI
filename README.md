@@ -1,8 +1,5 @@
 <p>
-<picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg">
-  <img src="./assets/profile-header.svg" width="100%" alt="Mireu Park · Software Engineer | Backend &amp; AI">
-</picture>
+<img src="./assets/mireu-cool-skylight.png" width="100%" alt="Mireu Park · Software Engineer">
 </p>
 
 <p>
